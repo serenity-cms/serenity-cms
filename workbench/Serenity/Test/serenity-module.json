@@ -1,0 +1,8 @@
+{
+    "name": "test",
+    "protected": false,
+    "providers": [],
+    "files": [],
+    "installer": "Serenity\\Test\\Installer",
+    "uninstaller": null
+}

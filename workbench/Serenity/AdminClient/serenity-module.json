@@ -1,0 +1,10 @@
+{
+    "name": "serenity-admin-client",
+    "protected": false,
+    "providers": [
+        "Serenity\\AdminClient\\Providers\\AdminClientServiceProvider"
+    ],
+    "files": [],
+    "installer": "Serenity\\AdminClient\\Installer",
+    "uninstaller": "Serenity\\AdminClient\\Installer"
+}

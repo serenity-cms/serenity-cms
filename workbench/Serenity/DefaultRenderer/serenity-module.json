@@ -1,0 +1,10 @@
+{
+    "name": "renderer-default",
+    "protected": false,
+    "providers": [],
+    "files": [
+        "routes.php"
+    ],
+    "installer": null,
+    "uninstaller": null
+}
